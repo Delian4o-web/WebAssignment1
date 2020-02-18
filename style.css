@@ -115,11 +115,12 @@ body{
 } 
 
 .imgInfo > img{
-  margin-left: 40%;
-  margin-top: 13%;
+  margin-left: 20%;
+  margin-top: 20%;
+  border: 2px solid black;
   border-radius: 40%;
-  width: 85px;
-  width: 70px;
+  width: 200px;
+  width: 200px;
 }
 
 .column {
