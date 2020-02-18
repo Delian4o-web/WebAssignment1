@@ -1,7 +1,7 @@
 body{
   /* background-color: #33A5FF; */
-  background-color: #010001 ;
-  color : #BC5F04;
+  background-color: #6D7275 ; 
+  color : #0C120C;
 }
 
 .flex-container {
@@ -12,7 +12,7 @@ body{
 
 .flex-container > div {
   /* background-image: linear-gradient(to left, rgba(255,0,0,0), #99ccff);  */
-  background-image: linear-gradient(to left, rgba(31, 21, 21, 0), #874000); 
+  background-image: linear-gradient(to left, rgba(53, 35, 35, 0), #C7D6D5); 
   border-radius: 25px;
   margin: 10px;
   padding: 20px;
