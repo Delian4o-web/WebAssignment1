@@ -50,6 +50,11 @@ body{
   font-size: 28px;
 }
 
+.aboutHead > h4 {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif ;
+  font-size: 30px;
+}
+
 .wrapperOne{
   display: flex;
 }
