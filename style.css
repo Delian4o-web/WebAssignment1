@@ -121,3 +121,15 @@ body{
   width: 85px;
   width: 70px;
 }
+
+.column {
+  float: left;
+  width: 25%;
+  padding: 20px;
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
