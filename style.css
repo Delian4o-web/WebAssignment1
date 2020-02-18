@@ -1,3 +1,7 @@
+body{
+  background-color: #33A5FF;
+}
+
 .flex-container {
   display: flex;
   flex-direction: column;
@@ -20,7 +24,7 @@
   margin-left : 17%;
 }
 
-#profileHeading > h2 {
+#profileHeading > h2 ,p {
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif
 }
 
