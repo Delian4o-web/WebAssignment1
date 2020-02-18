@@ -1,5 +1,7 @@
 body{
-  background-color: #33A5FF;
+  /* background-color: #33A5FF; */
+  background-color: #010001 ;
+  color : #BC5F04;
 }
 
 .flex-container {
@@ -9,7 +11,8 @@ body{
 }
 
 .flex-container > div {
-  background-image: linear-gradient(to left, rgba(255,0,0,0), #99ccff);
+  /* background-image: linear-gradient(to left, rgba(255,0,0,0), #99ccff);  */
+  background-image: linear-gradient(to left, rgba(31, 21, 21, 0), #874000); 
   border-radius: 25px;
   margin: 10px;
   padding: 20px;
@@ -25,11 +28,26 @@ body{
 }
 
 #profileHeading > h2 ,p {
-  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif ;
 }
 
 .aboutHead{
   text-align: center;
+}
+
+.aboutDesc{
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif ;
+  font-size: 25px;
+}
+
+.schoolInfo > ol{
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif ;
+  font-size: 25px;
+}
+
+.schoolInfo > h3 {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif ;
+  font-size: 28px;
 }
 
 .wrapperOne{
@@ -47,13 +65,13 @@ body{
 }
 
 .wrapperTwo{
-  background-image: linear-gradient(to left, rgba(255,0,0,0), #99ccff);
+  /* background-image: linear-gradient(to left, rgba(255,0,0,0), #99ccff);  */
   border-radius: 25px;
 }
 
 .wrapperThree{
   align-items: center;
-  background-image: linear-gradient(to left, rgba(255,0,0,0), #99ccff);
+  /* background-image: linear-gradient(to left, rgba(255,0,0,0), #99ccff);  */
   border-radius: 25px;
 }
 
