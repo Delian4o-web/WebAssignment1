@@ -45,7 +45,7 @@ body{
   font-size: 25px;
 }
 
-.schoolInfo > h3 {
+.schoolInfo > h3 , .skillsInfo > h3 {
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif ;
   font-size: 28px;
 }
@@ -121,6 +121,45 @@ body{
   border-radius: 40%;
   width: 200px;
   width: 200px;
+}
+
+.checked{
+  color:orange;
+}
+
+.rating{
+  text-align: center;
+}
+
+.ratingsWrapper{
+  width: 90%;
+  height: 300px;
+  margin-left: 12%;
+
+  display: flex;
+}
+
+#colOne{
+  width: 40%;
+  margin: 10px;
+}
+
+#colOne > h4{
+  text-align: center;
+}
+
+#colTwo > h4{
+  text-align: center;
+}
+
+.starSpan{
+  display: flex;
+}
+
+#colTwo{
+  width: 40%;
+  margin: 10px;
+  
 }
 
 .column {
