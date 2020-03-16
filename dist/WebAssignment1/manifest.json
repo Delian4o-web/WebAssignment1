@@ -1,0 +1,16 @@
+{
+  "name": "Delyan",
+  "short_name": "Delyan4o",
+  "theme_color": "#d36060",
+  "background_color": "#f08e8e",
+  "display": "standalone",
+  "start_url": ".",
+  "icons": [
+    {
+      "src": "./BCLogo.png",
+      "sizes": "200x200",
+      "type": "image/png"
+    }
+  ],
+  "splash_pages": null
+}
